@@ -1,2 +1,0 @@
-# pythonEx
-Excercícios de Python
